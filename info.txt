@@ -1,0 +1,3 @@
+load balancer dns:LU-linux-1751547216.ap-south-1.elb.amazonaws.com
+linux1:http://13.235.16.81/
+linux2:http://13.233.223.31/
